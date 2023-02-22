@@ -1,0 +1,192 @@
+body
+{
+    background-color: white;
+}
+
+.main
+{
+    border: 1px solid black;
+    width: 650px;
+    height: 650px;
+    position: relative;
+    left: 30%;
+}
+
+h1
+{
+    padding-left: 20px;
+    font-size: larger;
+    font-family: Verdana
+}
+
+hr
+{
+    width: 600px;
+}
+
+h2
+{
+    padding-left: 20px;
+}
+
+p
+{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+h3
+{
+    padding-left: 20px;
+}
+
+summary
+{
+    padding-left: 20px;
+}
+
+.abt
+{
+    padding-left: 20px;
+    font-size: larger;
+    font-family: verdana;
+}
+
+img
+{
+    height: 200px;
+    width: 250px;
+}
+
+p
+{
+    padding-left: 20px;
+}
+
+h3
+{
+    padding-left: 20px;
+}
+
+.contact
+{
+        border: 1px solid black;
+        width: 700px;
+        height: 1000px;
+        position: relative;
+        left: 30%;
+}
+
+.our
+{
+    padding-left: 90px;
+}
+
+.mainhour
+{
+        border: 1px solid black;
+        width: 650px;
+        height: 800px;
+        position: relative;
+        left: 30%;
+}
+
+.main-menu
+{
+        border: 1px solid black;
+        width: 650px;
+        height: 950px;
+        position: relative;
+        left: 30%;
+}
+
+dl
+{
+    padding-left: 20px;
+}
+
+.mainabout
+{
+        border: 1px solid black;
+        width: 650px;
+        height: 600px;
+        position: relative;
+        left: 30%;
+}
+
+.welcome
+{
+    text-align: center;
+}
+
+.back a
+{
+    color: black;
+    text-decoration: none;
+}
+
+.back a:hover
+{ 
+    background-color: rgb(8, 90, 90);
+    color: rgb(253, 253, 253);
+    transition: 1s ease-in;
+    text-decoration: underline;
+}
+
+.back a
+{
+    text-decoration: none;
+}
+
+.hour a
+{
+    text-decoration: none;
+}
+
+.hour a:hover
+{
+        background-color: rgb(8, 90, 90);
+        color: rgb(253, 253, 253);
+        transition: 1s ease-in;
+        text-decoration: underline;
+}
+
+#back a
+{
+    text-decoration: none;
+}
+
+#back a:hover
+{
+    color: white;
+    background-color: rgb(8, 90, 90);
+    text-decoration: underline;
+    transition: 1s ease-in;
+}
+
+.contact-back a
+{
+    text-decoration: none;
+}
+
+.contact-back a:hover
+{
+    color: white;
+    background-color: rgb(8, 90, 90);
+    text-decoration: underline;
+    transition: 1s ease-in;
+}
+
+.links a
+{
+    text-decoration: none;
+}
+
+.links a:hover
+{
+        color: white;
+        background-color: rgb(8, 90, 90);
+        text-decoration: underline;
+        transition: 1s ease-in;
+}
+
